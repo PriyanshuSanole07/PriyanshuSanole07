@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#1E88E5;">PRIYANSH KUSHWAHA</span>
+  <span style="color:#1E88E5;">PRIYANSHU SANOLE</span>
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43766021-91bc-4606-9eb8-9161f1055bc9"
        width="150"
-       alt="Priyansh Kushwaha"/>
+       alt="PRIYANSHU SANOLE"/>
 </p>
 
 <h3 align="center">
