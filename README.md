@@ -23,7 +23,7 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/priyansh-kushwaha-0985252a4">
+<a href="https://www.linkedin.com/in/priyanshu-sanole-9911312b8">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:kushawahapriyansh980@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
@@ -75,8 +75,6 @@ HTML • CSS • Bootstrap
 
 ## 📫 Contact
 
-📧 [kushawahapriyansh980@gmail.com](mailto:kushawahapriyansh980@gmail.com)
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyansh-kushwaha-0985252a4
-
-🔗 GitHub: https://github.com/priyansh-27
+📧 [priyanshusnaole99@gmail.com](mailto:priyanshusnaole99@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-sanole-9911312b8/
+🔗 GitHub: https://github.com/PriyanshuSanole07
