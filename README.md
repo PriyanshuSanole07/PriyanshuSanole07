@@ -78,4 +78,5 @@ HTML • CSS • Bootstrap
 📧 [priyanshusnaole99@gmail.com](mailto:priyanshusnaole99@gmail.com)
 
 🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-sanole-9911312b8/
+
 🔗 GitHub: https://github.com/PriyanshuSanole07
