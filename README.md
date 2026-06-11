@@ -6,9 +6,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/43766021-91bc-4606-9eb8-9161f1055bc9"
+  <img src="https://raw.githubusercontent.com/PriyanshuSanole07/PriyanshuSanole07/main/priyanshu_github.jpeg"
        width="150"
-       alt="PRIYANSHU SANOLE"/>
+       alt="Priyanshu Sanole"/>
 </p>
 
 <h3 align="center">
